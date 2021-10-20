@@ -7,7 +7,25 @@ h1
     text-align: center;
     background: rgb(255, 0, 234);
 }
+ul 
+{
+    text-align: center;
+}
 li 
 {
     display: inline-block;
+}
+.games
+{
+    width: 350px;
+    background: violet;
+
+}
+.block
+{ 
+    display: inline-block;
+    background: cyan;
+    width: 100px;
+    height: 100px;
+    border: 1px solid rgb(84, 4, 189);
 }
